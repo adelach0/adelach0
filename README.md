@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Adela Cho 👋
+
+### About Me
+I'm a graduate student at the University of Chicago for the Applied Data Science Program and have a Bachelor's at Washington University in St. Louis for Psychology and Marketing.
+
+### Contact Me
+
+### Technical Skills
 
 <!--
 **adelach0/adelach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

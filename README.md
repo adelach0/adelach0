@@ -5,7 +5,6 @@ I'm a graduate student at the University of Chicago for the Applied Data Science
 
 Quick Summary of Professional Experiences:
 Information Security Specialist @ WashU
-- 
 Project Manager, Digital Marketing/Korean TA, Graphic Designer @ WashU
 Project Analyst Intern @ Visa
 Strategist @ Rem & Company

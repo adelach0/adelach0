@@ -3,7 +3,7 @@
 ## About Me
 I'm a graduate student at the University of Chicago for the Applied Data Science Program and have a Bachelor's at Washington University in St. Louis for Psychology and Marketing. I currently work as an Information Security Specialist and hope to work in Project/Program Management, Data/Analytics, Marketing, and/or Consulting.
 
-#### Quick Summary of Professional Experiences:
+#### 🌱 Quick Summary of Professional Experiences:
 ##### Information Security Specialist @ WashU
 ##### Project Manager, Digital Marketing/Korean TA, Graphic Designer @ WashU
 ##### Project Analyst Intern @ Visa

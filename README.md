@@ -16,6 +16,12 @@ I'm a graduate student at the University of Chicago for the Applied Data Science
 Email: adelacho.0719@gmail.com
 
 ## Technical Skills
+Data Visualization Software: Tableau, Power BI
+Programming Languages: SQL, Python, R
+Project Management: Trello, JIRA
+Design: Streamlit (UI/UX), Abobe Software Suite (Photoshop, After Effects, Premiere Pro, etc), Canva, Studio
+Website Development: Sharepoint, WordPress, Streamlit
+
 
 <!--
 **adelach0/adelach0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

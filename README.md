@@ -14,7 +14,6 @@ I'm a graduate student at the University of Chicago for the Applied Data Science
 
 ## Contact Me
 Email: adelacho.0719@gmail.com
-Linkedin
 
 ## Technical Skills
 

@@ -19,6 +19,10 @@ Email: adelacho.0719@gmail.com
   Data Visualization Software: Tableau, Power B
   
   Programming Languages: SQL, Python, R
+
+  Statistical/Data Software: Excel, SPSS, OpenRefine
+
+  Suite: Abode Software Suite, Microsoft Office Suite
   
   Project Management: Trello, JIRA
   

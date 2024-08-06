@@ -27,7 +27,7 @@ Email: adelacho.0719@gmail.com
   
   Project Management: Trello, JIRA
   
-  Design: Streamlit (UI/UX), Abobe Software Suite (Photoshop, After Effects, Premiere Pro, etc), Canva, Studio
+  Design: Streamlit (UI/UX), Adobe Software Suite (Photoshop, After Effects, Premiere Pro, etc), Canva, Studio
   
   Website Development: Sharepoint, WordPress, Streamlit
   

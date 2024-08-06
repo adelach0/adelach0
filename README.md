@@ -17,7 +17,7 @@ I'm a graduate student at the University of Chicago for the Applied Data Science
 Email: adelacho.0719@gmail.com
 
 ## Technical Skills
-  Data Visualization Software: Tableau, Power B
+  Data Visualization Software: Tableau, Power BI
   
   Programming Languages: SQL, Python, R
 

@@ -1,5 +1,5 @@
 ## Hi, I'm Adela Cho 👋
-👷‍♀️ Look out for our UChicago Reserch Capstone Project on Conversation/Generative AI in August!
+👷‍♀️ Look out for our UChicago Research Capstone Project on Conversation/Generative AI in August!
 
 ## About Me
 I'm a graduate student at the University of Chicago for the Applied Data Science Program and have a Bachelor's at Washington University in St. Louis for Psychology and Marketing. I currently work as an Information Security Specialist and hope to work in Project/Program Management, Data/Analytics, Marketing, and/or Consulting.
